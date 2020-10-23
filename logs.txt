@@ -1,0 +1,11 @@
+2020/10/23 19:40:14 2.3.2-Prerelease
+2020/10/23 19:40:21 [Info] Invalid or no particular PORT (range [1024-65535]) provided. Defaulting to 8123
+2020/10/23 19:40:21 [Info] No valid SERVER_URL provided. Defaulting to http://localhost
+2020/10/23 19:40:21 [Info] No EXT_PORT provided. Defaulting to PORT
+2020/10/23 19:40:21 Using ./ as the base path for config
+2020/10/23 19:40:21 Success in initializing the local Filesystem as the Storage Driver
+2020/10/23 19:40:21 Bot is now running.  Press CTRL-C to exit.
+2020/10/23 19:40:21 Serving at localhost:8123...
+2020/10/23 19:40:22 Successfully loaded config from storagedriver for 758356989968646144
+2020/10/23 19:40:22 Added to new Guild, id 758356989968646144, name Among Us Çetesi
+2020/10/23 19:40:22 [This is not an error] No explicit guildID provided for emojis; using the current guild default
